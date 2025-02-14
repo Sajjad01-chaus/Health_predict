@@ -9,6 +9,6 @@ Model Training: Train and tune classifiers (SVM, Random Forest, Gradient Boostin
 Evaluation: Select the best classifier based on accuracy.
 ## Results
 ### Accuracy
-![Accuracy Plot](Screenshot 2025-02-14 101439.png)
+![Accuracy Plot](Health_predict/Screenshot2025-02-14101453.png)
 
 Decision Boundary
