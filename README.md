@@ -7,7 +7,8 @@ Data Preprocessing: Load and clean the dataset, apply encoding.
 SMOTE Oversampling: Balance the dataset for better model performance.
 Model Training: Train and tune classifiers (SVM, Random Forest, Gradient Boosting) using GridSearchCV.
 Evaluation: Select the best classifier based on accuracy.
-# # Results
-Accuracy
+## Results
+### Accuracy
+![Accuracy Plot](Screenshot 2025-02-14 101439.png)
 
 Decision Boundary
